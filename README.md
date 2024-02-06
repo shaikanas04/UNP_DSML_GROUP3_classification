@@ -16,4 +16,4 @@ https://drive.google.com/file/d/1fctUqcwJxUaqjaYySneUmX6GH5QjzJYE/view?usp=shari
 
 PPT LINK:
 
-https://docs.google.com/presentation/d/1JKu2VvfteXllU8jw-3NBGnCVOrGbM6wG/edit?usp=sharing&ouid=112671502425931966122&rtpof=true&sd=true
+https://drive.google.com/file/d/1JVjItzUmwRrtQNn1qglOopiUYNeSUF0b/view?usp=sharing
