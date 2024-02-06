@@ -12,7 +12,7 @@ Compared the results to recommend the best Classification model.
 
 COLAB NOTEBOOK LINK:
 
-https://drive.google.com/file/d/1du7EGVR2nmoRnj5Kxf3s_Bvdg6yXRNnL/view?usp=sharing.
+https://drive.google.com/file/d/1fctUqcwJxUaqjaYySneUmX6GH5QjzJYE/view?usp=sharing
 
 PPT LINK:
 
